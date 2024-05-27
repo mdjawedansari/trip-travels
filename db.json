@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "c130",
+      "fullname": "test",
+      "email": "test@gmail.com",
+      "password": "test123",
+      "confirmPassword": "test123"
+    },
+    {
+      "id": "4107",
+      "email": "test34@gmail.com",
+      "password": "132dsdcsf"
+    },
+    {
+      "id": "5e93",
+      "email": "ejaz@gmail.com",
+      "password": "test123"
+    },
+    {
+      "id": "ad18",
+      "email": "ejaz@gmail.com",
+      "password": "test123"
+    },
+    {
+      "id": "2456",
+      "email": "ejaz@gmail.com",
+      "password": "test123"
+    },
+    {
+      "id": "719a",
+      "email": "ejaz@gmail.com",
+      "password": "test123"
+    }
+  ]
+}
