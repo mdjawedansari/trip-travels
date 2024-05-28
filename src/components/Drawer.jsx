@@ -24,7 +24,7 @@ const Drawer = ({setIsOpen}) => {
           </li>
           <li>
             <a
-              href="about"
+              href="/about"
               className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
             >
               About
@@ -32,7 +32,7 @@ const Drawer = ({setIsOpen}) => {
           </li>
           <li>
             <a
-              href="service"
+              href="/service"
               className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
             >
               Service
@@ -40,7 +40,7 @@ const Drawer = ({setIsOpen}) => {
           </li>
           <li>
             <a
-              href="contact"
+              href="/contact"
               className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
             >
               Contact
@@ -48,7 +48,7 @@ const Drawer = ({setIsOpen}) => {
           </li>
           <li>
             <a
-              href="login"
+              href="/login"
               className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
             >
               Login
